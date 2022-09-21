@@ -15,5 +15,5 @@ Install package with npm or yarn.
   ```
 
 ### Usage
-    const randomID = require('your-package-name');
+    const randomID = require('@ciurski/id_generator');
     console.log(randomID(10));
